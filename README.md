@@ -1,21 +1,16 @@
-# shadcn/ui monorepo template
+# Novem AI
 
-This is a Next.js monorepo template with shadcn/ui.
 
-## Adding components
+We are building a generalist agent to do legal work for everyday person and help firms and legal teams to resolve cases faster.
 
-To add components to your app, run the following command at the root of your `web` app:
+I want to develop this project to commericalize it and make couples of millions dollar this is the main reason I want to optimize it for.
+Second I want to learn software engineering, programmings, Data bases and AI Engineering some machine learning concept to to build it while building it I want to go as learn build learn build grow.
 
-```bash
-pnpm dlx shadcn@latest add button -c apps/web
-```
 
-This will place the ui components in the `packages/ui/src/components` directory.
+For my time this will give me three things
 
-## Using components
+if work our perfectly so it solve my financial problems and this might be the things that kickstart my life.
 
-To use the components in your app, import them from the `ui` package.
+this will make me a highly skilled professional software engineering and develop new understanding and perspective about my life and skills.
 
-```tsx
-import { Button } from "@workspace/ui/components/button";
-```
+This unlock a proof of work and believe to build what every I like.
